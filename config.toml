@@ -17,7 +17,7 @@ copyright = "Code with <i class='fas fa-heart'></i> and <i class='fab fa-r-proje
 
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-165841756-1"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
