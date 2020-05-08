@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bandgap on Mustafa Kurban, Ph.D. </title>
+    <link>/tags/bandgap/</link>
+    <description>Recent content in Bandgap on Mustafa Kurban, Ph.D. </description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Code with &lt;i class=&#39;fas fa-heart&#39;&gt;&lt;/i&gt; and &lt;i class=&#39;fab fa-r-project&#39;&gt;&lt;/i&gt; &lt;a href=&#39;https://bookdown.org/yihui/blogdown/&#39;&gt;Blogdown&lt;/a&gt;&lt;br&gt;&amp;copy; Mustafa Kurban, {year}</copyright>
+    <lastBuildDate>Fri, 21 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/bandgap/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hexathiopentacene (HTP) Nanorings</title>
+      <link>/project/2/</link>
+      <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/project/2/</guid>
+      <description>&lt;p&gt;The electronic structure and structural and optoelectronic properties of hexathiopentacene (HTP) nanorings have been carried out by density functional theory (DFT) and time-dependent DFT (TD-DFT). Herein, the binding energy per atom, ionization potential, electron affinity, chemical hardness, highest occupied molecular orbital (HOMO)–lowest unoccupied molecular orbital (LUMO) gap, refractive index, charge distributions, absorbance spectra and non-linear optical properties have been measured. The calculations on these nanorings show that the HOMO–LUMO gaps range from 1.87 eV to 1.28 eV, which corresponds to the bandgap of known photovoltaic semiconductors, while the absorbance spectrum increases from 674 nm (1.84 eV) to 874 nm (1.42 eV), which indicates that the HTP nanorings absorb more light as the nanoring size is increased. From the binding energy, the stability of the HTP nanorings is higher than that of the HTP structure. Our results show that an increase in the size may play a significant role in improving the design of optoelectronic devices based upon these HTP nanorings.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

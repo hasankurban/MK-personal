@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>magnetron sputtering on Mustafa Kurban, Ph.D. </title>
+    <link>/tags/magnetron-sputtering/</link>
+    <description>Recent content in magnetron sputtering on Mustafa Kurban, Ph.D. </description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Code with &lt;i class=&#39;fas fa-heart&#39;&gt;&lt;/i&gt; and &lt;i class=&#39;fab fa-r-project&#39;&gt;&lt;/i&gt; &lt;a href=&#39;https://bookdown.org/yihui/blogdown/&#39;&gt;Blogdown&lt;/a&gt;&lt;br&gt;&amp;copy; Mustafa Kurban, {year}</copyright>
+    <lastBuildDate>Fri, 03 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/magnetron-sputtering/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Suppression of the Shuttle Effect in Li–S Batteries</title>
+      <link>/project/6/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/project/6/</guid>
+      <description>&lt;p&gt;The practical application of lithium–sulfur (Li–S) batteries is still an issue mainly due to the shuttle phenomenon originating from the migration of lithium polysulfides (LiPs) between the electrodes, which leads to low Columbic efficiency and rapid capacity fading. In this work, sulfur electrodes are coated with TiO2 thin films via a magnetron sputtering technique at varying deposition times. A stable capacity contribution (66%) from the long-chain to short-chain LiPs reactions is achieved for the TiO2 coated electrodes, whereas a decline from 66% to 62% is observed for the uncoated electrode. This indicates a reversible use of the long-chain LiPs for the TiO2 coated electrodes, representing a more efficient utilization of the active material. Correspondingly, the capacity retention is improved from 68.8% to 88.5% after TiO2 coating. The TiO2 coated electrode delivers a capacity of 570 mAh/g after 120 cycles at 0.1 C, which is 40% greater than that of the uncoated electrode. Similarly, the TiO2 coated electrode delivers a capacity of 427 mAh/g after 170 cycles at 0.5 C, which is 67% greater than that of the uncoated electrode. Analysis of the binding energies of LiPs that are adsorbed on the TiO2 surface by theoretical calculations shows that strong Li–O bonds dominate the interactions between the LiPs and TiO2 layer. It is suggested that magnetron sputtered TiO2 at the electrode–electrolyte interface can be effective in suppressing the shuttle effect due to the strong polysulfide adsorbing properties of the TiO2 thin film.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

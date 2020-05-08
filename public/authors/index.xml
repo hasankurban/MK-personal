@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Mustafa Kurban, Ph.D. </title>
+    <link>/authors/</link>
+    <description>Recent content in Authors on Mustafa Kurban, Ph.D. </description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Code with &lt;i class=&#39;fas fa-heart&#39;&gt;&lt;/i&gt; and &lt;i class=&#39;fab fa-r-project&#39;&gt;&lt;/i&gt; &lt;a href=&#39;https://bookdown.org/yihui/blogdown/&#39;&gt;Blogdown&lt;/a&gt;&lt;br&gt;&amp;copy; Mustafa Kurban, {year}</copyright>
+    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I am an associate professor in the Department of Electronics and Automation at Kırşehir Ahi Evran University. I received my Ph.D. in computational physics from Middle East Technical University in 2016, and as a post-doc, I have studied density-functional tight-binding theory at University of California, Riverside from 2018 to 2019. My expertise is on exploring photophysical, optical and structural properties of bulk heterojunction solar cells, rechargeable batteries, organic materials, drug delivery systems, energy storage, nanomaterials including nanotubes, nanoparticles, nanotubes, 2D materials.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robert Ford</title>
+      <link>/authors/robert-ford/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/robert-ford/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
