@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Projects"
-subtitle = "Some publications I have recently published"
+subtitle = "Featured Publications"
 
 [content]
   # Page type to display. E.g. project.
