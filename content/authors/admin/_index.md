@@ -35,7 +35,7 @@ social:
   link: http://orcid.org/0000-0002-7263-0234
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Mustafa_Kurban3
+  link: https://www.researchgate.net/profile/Mustafa_Kurban
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=-xcZFYwAAAAJ&hl=en
