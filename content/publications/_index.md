@@ -11,10 +11,12 @@ theme: united
 ##  **Journal Articles**
 
 
-*43.* İ. Muz and **M.Kurban**, The electronic structure, transport and structural properties of nitrogen-decorated  two-dimensional graphdiyne nanosheets, Journal of Alloys and Compounds, under review, (2020)
 
-*42.* H. Kurban, M. Dalkilic, S. Temiz and **M.Kurban**, Tailoring the structural properties and electronic structure of anatase, brookite 
-and rutile phase TiO2 nanoparticles: DFTB calculations, Computational Materials Science, under rewiew, (2020).
+
+
+*43.* İ. Muz and **M.Kurban**, The electronic structure, transport and structural properties of nitrogen-decorated  two-dimensional graphdiyne nanosheets, Journal of Alloys and Compounds, under review, (2020).
+
+*42.* H. Kurban, M. Dalkilic, S. Temiz and **M.Kurban**, Tailoring the structural properties and electronic structure of anatase, brookite  and rutile phase TiO2 nanoparticles: DFTB calculations, Computational Materials Science, under review, (2020).
 
 *41.* **M.Kurban** and İ. Muz, .[Theoretical investigation of the adsorption behaviors of fluorouracil as an anticancer drug on pristine and B-, Al-, Ga-doped C36 nanotube](https://www.sciencedirect.com/science/article/abs/pii/S0167732220312575), Journal of Molecular Liquids, 309, 113209, (2020).
 
@@ -28,7 +30,7 @@ and rutile phase TiO2 nanoparticles: DFTB calculations, Computational Materials 
 
 *36.* İ. Muz, F. Göktaş and **M.Kurban**, [3d-transition metals (Cu, Fe, Mn, Ni and Zn)-doped pentacene  π-conjugated organic molecule for photovoltaic applications: DFT and TD-DFT calculations](https://link.springer.com/article/10.1007%2Fs00214-020-2544-9), Theoretical Chemistry Accounts, 139, 23(1-8), (2020).
 
-*35.* T. Zerrin, **M.Kurban**, Matthew M. Dickson., M. Özkan and C. Özkan, [Supression of the Shuttle Effect in Li-S Batteries via Magention TiO2 Thin Film at the Electrode-Electroyte Interface](https://pubs.acs.org/doi/10.1021/acsaem.9b01960), ACS Applied Energy Materials, i3(2), 1515-1529, (2020).
+*35.* T. Zerrin, **M.Kurban**, Matthew M. Dickson., M. Özkan and C. Özkan, [Supression of the Shuttle Effect in Li-S Batteries via Magention TiO2 Thin Film at the Electrode-Electroyte Interface](https://pubs.acs.org/doi/10.1021/acsaem.9b01960), ACS Applied Energy Materials, 3(2), 1515-1529, (2020).
 
 *34.* B. Köylüoğlu, S. Alei and **M.Kurban**, [Molecular dynamics study on composition and temperature dependences of mechanical properties of CdTeSe nanowires under uniaxial stretching](https://www.worldscientific.com/doi/abs/10.1142/S0217979219503739), International Journal of Modern Physics B, 33, 1950373, (2019).
 
@@ -194,7 +196,7 @@ and rutile phase TiO2 nanoparticles: DFTB calculations, Computational Materials 
 + International Journal of Modern Physics B
 + Material Reasearch Express
 + Solid State Communications
-+ J ournal of Physics: Condensed Matter
++ Journal of Physics: Condensed Matter
 + Turkish Journal of Physics
 + Applied Physics A
 + International Journal of Physics of Hydrogen Energy
