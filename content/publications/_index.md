@@ -11,8 +11,8 @@ theme: united
 ##  **Journal Articles**
 
 
-
-
+*44.*   İ. Muz and M. Kurban, Electronic structures and bonding of graphdiyne and its BN analogues: transition from quasi-planar to planar sheets, 
+Journal of Alloys and Compounds, under review, (2020).
 
 *43.* İ. Muz and **M.Kurban**, The electronic structure, transport and structural properties of nitrogen-decorated  two-dimensional graphdiyne nanosheets, Journal of Alloys and Compounds, under review, (2020).
 
@@ -24,7 +24,7 @@ theme: united
 
 *39.*  F. Kara, **M.Kurban**, and B. Coşkun, [Evaluation of electronic transport and optical response of two-dimensional Fe-doped TiO2 thin films for photodetector applications](https://www.sciencedirect.com/science/article/abs/pii/S0030402620304393), Optik, 210, 16405(1-7), (2020).
 
-*38.*  **M.Kurban**, T. R. Sertbakan and B. Gündüz, [A combined experimental and DFT/TD-DFT studies on the electronic structure, structural and optical properties of quinoline derivatives](https://www.springer.com/journal/894), Journal of Molecular Modeling, in press, (2020).
+*38.*  **M.Kurban**, T. R. Sertbakan and B. Gündüz, [A combined experimental and DFT/TD-DFT studies on the electronic structure, structural and optical properties of quinoline derivatives](https://link.springer.com/article/10.1007/s00894-020-04405-5), Journal of Molecular Modeling, 26, 131, (2020).
 
 *37.* İ. Muz and **M.Kurban**, [Electronic transport and non-linear optical properties of hexathiopentacene (HTP) nanorings: A DFT study,](https://link.springer.com/article/10.1007/s11664-020-08017-w) Journal of Electronic Materials, 49,3282-3289 (2020).
 
