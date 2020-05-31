@@ -16,9 +16,9 @@ Journal of Alloys and Compounds, under review, (2020).
 
 *43.* İ. Muz and **M.Kurban**, The electronic structure, transport and structural properties of nitrogen-decorated  two-dimensional graphdiyne nanosheets, Journal of Alloys and Compounds, under review, (2020).
 
-*42.* H. Kurban, M. Dalkilic, S. Temiz and **M.Kurban**, Tailoring the structural properties and electronic structure of anatase, brookite  and rutile phase TiO2 nanoparticles: DFTB calculations, Computational Materials Science, under review, (2020).
+*42.* H. Kurban, M. Dalkilic, S. Temiz and **M.Kurban**, [Tailoring the structural properties and electronic structure of anatase, brookite  and rutile phase TiO2 nanoparticles: DFTB calculations](https://www.sciencedirect.com/science/article/pii/S0927025620303347?dgcid=author), Computational Materials Science, 183, 109843 (1-9), (2020).
 
-*41.* **M.Kurban** and İ. Muz, .[Theoretical investigation of the adsorption behaviors of fluorouracil as an anticancer drug on pristine and B-, Al-, Ga-doped C36 nanotube](https://www.sciencedirect.com/science/article/abs/pii/S0167732220312575), Journal of Molecular Liquids, 309, 113209, (2020).
+*41.* **M.Kurban** and İ. Muz, [Theoretical investigation of the adsorption behaviors of fluorouracil as an anticancer drug on pristine and B-, Al-, Ga-doped C36 nanotube](https://www.sciencedirect.com/science/article/abs/pii/S0167732220312575), Journal of Molecular Liquids, 309, 113209, (2020).
 
 *40.* İ. Muz, **M.Kurban** and M. Dalkılıç, [DFT and TD-DFT studies of new pentacene-based organic molecules as a donor material for bulk-heterojunction solar cells](https://www.springerprofessional.de/dft-and-td-dft-studies-of-new-pentacene-based-organic-molecules-/17889704), Journal of Computational Electronics, in press, (2020).
 
