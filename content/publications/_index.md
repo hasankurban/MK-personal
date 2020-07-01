@@ -10,11 +10,11 @@ theme: united
 	
 ##  **Journal Articles**
 
+ *45.* İ. Muz, F. Göktaş and **M. Kurban**, Size dependence in the electronic and optical properties of a BN analogue of two-dimensional graphdiyne: A theoretical study, Chemical Physics, under review, (2020).
+ 
+ *44.*   İ. Muz and **M. Kurban**, [The electronic structure, transport and structural properties of nitrogen-decorated graphdiyne nanomaterials, Journal of Alloys and Compounds](https://www.sciencedirect.com/science/article/abs/pii/S0925838820323471), in press, (2020). 
 
-*44.*   İ. Muz and M. Kurban, Electronic structures and bonding of graphdiyne and its BN analogues: transition from quasi-planar to planar sheets, 
-Journal of Alloys and Compounds, under review, (2020).
-
-*43.* İ. Muz and **M.Kurban**, The electronic structure, transport and structural properties of nitrogen-decorated  two-dimensional graphdiyne nanosheets, Journal of Alloys and Compounds, under review, (2020).
+*43.* İ. Muz and **M. Kurban**, [Electronic structures and bonding of graphdiyne and its BN analogs: Transition from quasi-planar to planar sheets, Journal of Alloys and Compounds](https://www.sciencedirect.com/science/article/abs/pii/S0925838820323513), Journal of Alloys and Compounds, in press, (2020).
 
 *42.* H. Kurban, M. Dalkilic, S. Temiz and **M.Kurban**, [Tailoring the structural properties and electronic structure of anatase, brookite  and rutile phase TiO2 nanoparticles: DFTB calculations](https://www.sciencedirect.com/science/article/pii/S0927025620303347?dgcid=author), Computational Materials Science, 183, 109843 (1-9), (2020).
 
