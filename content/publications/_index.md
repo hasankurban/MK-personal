@@ -28,7 +28,7 @@ theme: united
 
 *38.*  **M.Kurban**, T. R. Sertbakan and B. Gündüz, [A combined experimental and DFT/TD-DFT studies on the electronic structure, structural and optical properties of quinoline derivatives](https://link.springer.com/article/10.1007/s00894-020-04405-5), Journal of Molecular Modeling, 26, 131, (2020).
 
-*37.* İ. Muz and **M.Kurban**, [Electronic transport and non-linear optical properties of hexathiopentacene (HTP) nanorings: A DFT study,](https://link.springer.com/article/10.1007/s11664-020-08017-w),  Journal of Electronic Materials, 49,3282-3289 (2020).
+*37.* İ. Muz and **M.Kurban**, [Electronic transport and non-linear optical properties of hexathiopentacene (HTP) nanorings: A DFT study,](https://link.springer.com/article/10.1007/s11664-020-08017-w),  *Journal of Electronic Materials*, 49,3282-3289 (2020).
 
 *36.* İ. Muz, F. Göktaş and **M.Kurban**, [3d-transition metals (Cu, Fe, Mn, Ni and Zn)-doped pentacene  π-conjugated organic molecule for photovoltaic applications: DFT and TD-DFT calculations](https://link.springer.com/article/10.1007%2Fs00214-020-2544-9), Theoretical Chemistry Accounts, 139, 23(1-8), (2020).
 
