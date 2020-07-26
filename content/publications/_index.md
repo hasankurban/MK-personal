@@ -10,7 +10,7 @@ theme: united
 	
 ##  **Journal Articles**
 
- *46.* İ. Muz, F. Göktaş and **M. Kurban**, Size dependence in the electronic and optical properties of a BN analogue of two-dimensional graphdiyne: A theoretical study, Chemical Physics, 539, 110929(1-6), (2020).
+ *46.* İ. Muz, F. Göktaş and **M. Kurban**, [Size dependence in the electronic and optical properties of a BN analogue of two-dimensional graphdiyne: A theoretical study](https://www.sciencedirect.com/science/article/abs/pii/S0301010420306868?via%3Dihub), Chemical Physics, 539, 110929(1-6), (2020).
 
  *45.* M. Kanli, **M. Kurban**  , B. Ozdemir, A. Onen and E. Durgun, Single- and Multi-Layer Arsenene as an Anode Material for Li, Na, and K-ion Battery Applications, Computational Materials Science in press, (2020).
  
