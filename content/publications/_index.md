@@ -14,9 +14,9 @@ theme: united
 
  *45.* M. Kanli, **M. Kurban**  , B. Ozdemir, A. Onen and E. Durgun, Single- and Multi-Layer Arsenene as an Anode Material for Li, Na, and K-ion Battery Applications, Computational Materials Science in press, (2020).
  
- *44.*   İ. Muz and **M. Kurban**, [The electronic structure, transport and structural properties of nitrogen-decorated graphdiyne nanomaterials, Journal of Alloys and Compounds](https://www.sciencedirect.com/science/article/abs/pii/S0925838820323471), 842, 155983(1-10), (2020).
+ *44.*   İ. Muz and **M. Kurban**, [The electronic structure, transport and structural properties of nitrogen-decorated graphdiyne nanomaterials](https://www.sciencedirect.com/science/article/abs/pii/S0925838820323471),  Journal of Alloys and Compounds, 842, 155983(1-10), (2020).
 
-*43.* İ. Muz and **M. Kurban**, [Electronic structures and bonding of graphdiyne and its BN analogs: Transition from quasi-planar to planar sheets, Journal of Alloys and Compounds](https://www.sciencedirect.com/science/article/abs/pii/S0925838820323513),  846, 155987, (2020).
+*43.* İ. Muz and **M. Kurban**, [Electronic structures and bonding of graphdiyne and its BN analogs: Transition from quasi-planar to planar sheets](https://www.sciencedirect.com/science/article/abs/pii/S0925838820323513),   Journal of Alloys and Compounds, 846, 155987, (2020).
 
 *42.* H. Kurban, M. Dalkilic, S. Temiz and **M.Kurban**, [Tailoring the structural properties and electronic structure of anatase, brookite  and rutile phase TiO2 nanoparticles: DFTB calculations](https://www.sciencedirect.com/science/article/pii/S0927025620303347?dgcid=author), Computational Materials Science, 183, 109843 (1-9), (2020).
 
@@ -28,7 +28,7 @@ theme: united
 
 *38.*  **M.Kurban**, T. R. Sertbakan and B. Gündüz, [A combined experimental and DFT/TD-DFT studies on the electronic structure, structural and optical properties of quinoline derivatives](https://link.springer.com/article/10.1007/s00894-020-04405-5), Journal of Molecular Modeling, 26, 131, (2020).
 
-*37.* İ. Muz and **M.Kurban**, [Electronic transport and non-linear optical properties of hexathiopentacene (HTP) nanorings: A DFT study,](https://link.springer.com/article/10.1007/s11664-020-08017-w) Journal of Electronic Materials, 49,3282-3289 (2020).
+*37.* İ. Muz and **M.Kurban**, [Electronic transport and non-linear optical properties of hexathiopentacene (HTP) nanorings: A DFT study,](https://link.springer.com/article/10.1007/s11664-020-08017-w),  Journal of Electronic Materials, 49,3282-3289 (2020).
 
 *36.* İ. Muz, F. Göktaş and **M.Kurban**, [3d-transition metals (Cu, Fe, Mn, Ni and Zn)-doped pentacene  π-conjugated organic molecule for photovoltaic applications: DFT and TD-DFT calculations](https://link.springer.com/article/10.1007%2Fs00214-020-2544-9), Theoretical Chemistry Accounts, 139, 23(1-8), (2020).
 
