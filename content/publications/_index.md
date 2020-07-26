@@ -38,7 +38,7 @@ theme: united
 
 *33*. H. Kurban, **M.Kurban** and M. Dalkılıç,  [Density-functional tight-binding approach for the structural analysis and electronic structure of copper hydride metallic nanoparticles](https://www.sciencedirect.com/science/article/abs/pii/S2352492819307469), Materials Today Communications, 21, 100648(1-7), (2019).
 
-*32.* İ. Muz and **M.Kurban**,  [A comprehensive study of electronic structure and optical properties of carbon nanotubes with doped B, Al, Ga, Si, Ge, N, P and As and different diameters, Journal of Alloys and Compounds](https://www.sciencedirect.com/science/article/abs/pii/S0925838819322959), 802, 25-35, (2019).
+*32.* İ. Muz and **M.Kurban**,  [A comprehensive study of electronic structure and optical properties of carbon nanotubes with doped B, Al, Ga, Si, Ge, N, P and As and different diameters](https://www.sciencedirect.com/science/article/abs/pii/S0925838819322959), Journal of Alloys and Compounds, 802, 25-35, (2019).
 
 *31.* **M.Kurban**, C. Kürkçü, Ç. Yamçıçer and F. Göktaş, [A study of structural phase transitions and optoelectronic properties of perovskite-type hydrides MgXH3: Ab initio calculations](https://iopscience.iop.org/article/10.1088/1361-648X/ab1c9e), Journal of Physics: Condensed Matter, 31, 305401 (1-12) (2019).
 
