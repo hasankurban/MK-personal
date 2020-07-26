@@ -14,7 +14,7 @@ theme: united
 
  *45.* M. Kanli, **M. Kurban**  , B. Ozdemir, A. Onen and E. Durgun, Single- and Multi-Layer Arsenene as an Anode Material for Li, Na, and K-ion Battery Applications, Computational Materials Science in press, (2020).
  
- *44.*   İ. Muz and **M. Kurban**, [The electronic structure, transport and structural properties of nitrogen-decorated graphdiyne nanomaterials, Journal of Alloys and Compounds](https://www.sciencedirect.com/science/article/abs/pii/S0925838820323471), in press, (2020). 
+ *44.*   İ. Muz and **M. Kurban**, [The electronic structure, transport and structural properties of nitrogen-decorated graphdiyne nanomaterials, Journal of Alloys and Compounds](https://www.sciencedirect.com/science/article/abs/pii/S0925838820323471), 842, 155983(1-10), (2020).
 
 *43.* İ. Muz and **M. Kurban**, [Electronic structures and bonding of graphdiyne and its BN analogs: Transition from quasi-planar to planar sheets, Journal of Alloys and Compounds](https://www.sciencedirect.com/science/article/abs/pii/S0925838820323513),  846, 155987, (2020).
 
