@@ -206,7 +206,14 @@ theme: united
 + Nevsehir Journal of Science and Technology
 + Duzce University Journal of Science and Technology
 + SN-Applied Sciences
-+ Journal of SuperConductivity and Magnetism
++ Journal of Superconductivity and Novel Magnetism
 + Semiconductor Science and Technology
 + Bilecik Seyh Edebali University Journal of Science 
++ Letters in Organic Chemistry
++ International Journal of Quantum Chemistry
++ Mediterranean Journal of Chemistry
++ Industrial & Engineering Chemistry Research
++ Chemical-Physics
++ RSC-Advances
++ Modelling and Simulation in Materials Science
 
