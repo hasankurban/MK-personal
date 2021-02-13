@@ -14,19 +14,19 @@ theme: united
 
 *47.* H. Kurban, S. Alaei and **M.Kurban**, [Effect of Mg content on electronic structure, optical and structural properties of amorphous ZnO nanoparticles: A DFTB study](https://www.sciencedirect.com/science/article/pii/S0022309321000855), *Journal of Non-Crystalline Solids*, 560, 120726(1-6), (2021).
 
- *46.* M. Kanli, **M. Kurban**  , B. Ozdemir, A. Onen and E. Durgun, [Single- and Multi-Layer Arsenene as an Anode Material for Li, Na, and K-ion Battery Applications](https://www.sciencedirect.com/science/article/pii/S0927025620304912), *Computational Materials Science*, 186: 110000,  (2021).
+ *46.* M. Kanli, **M. Kurban**  , B. Ozdemir, A. Onen and E. Durgun, [Single- and Multi-Layer Arsenene as an Anode Material for Li, Na, and K-ion Battery Applications](https://www.sciencedirect.com/science/article/pii/S0927025620304912), *Computational Materials Science*, 186, 110000 (1-7),  (2021).
 
  *45.* İ. Muz, F. Göktaş and **M. Kurban**, [Size dependence in the electronic and optical properties of a BN analogue of two-dimensional graphdiyne: A theoretical study](https://www.sciencedirect.com/science/article/abs/pii/S0301010420306868?via%3Dihub), *Chemical Physics*, 539, 110929(1-6), (2020).
  
  *44.*   İ. Muz and **M. Kurban**, [The electronic structure, transport and structural properties of nitrogen-decorated graphdiyne nanomaterials](https://www.sciencedirect.com/science/article/abs/pii/S0925838820323471),  *Journal of Alloys and Compounds*, 842, 155983(1-10), (2020).
 
-*43.* İ. Muz and **M. Kurban**, [Electronic structures and bonding of graphdiyne and its BN analogs: Transition from quasi-planar to planar sheets](https://www.sciencedirect.com/science/article/abs/pii/S0925838820323513),   *Journal of Alloys and Compounds*, 846, 155987, (2020).
+*43.* İ. Muz and **M. Kurban**, [Electronic structures and bonding of graphdiyne and its BN analogs: Transition from quasi-planar to planar sheets](https://www.sciencedirect.com/science/article/abs/pii/S0925838820323513),   *Journal of Alloys and Compounds*, 846, 155987(1-11), (2020).
 
 *42.* H. Kurban, M. Dalkilic, S. Temiz and **M.Kurban**, [Tailoring the structural properties and electronic structure of anatase, brookite  and rutile phase TiO2 nanoparticles: DFTB calculations](https://www.sciencedirect.com/science/article/pii/S0927025620303347?dgcid=author), *Computational Materials Science*, 183, 109843 (1-9), (2020).
 
-*41.* **M.Kurban** and İ. Muz, [Theoretical investigation of the adsorption behaviors of fluorouracil as an anticancer drug on pristine and B-, Al-, Ga-doped C36 nanotube](https://www.sciencedirect.com/science/article/abs/pii/S0167732220312575), *Journal of Molecular Liquids*, 309, 113209, (2020).
+*41.* **M.Kurban** and İ. Muz, [Theoretical investigation of the adsorption behaviors of fluorouracil as an anticancer drug on pristine and B-, Al-, Ga-doped C36 nanotube](https://www.sciencedirect.com/science/article/abs/pii/S0167732220312575), *Journal of Molecular Liquids*, 309, 113209(1-9), (2020).
 
-*40.* İ. Muz, **M.Kurban** and M. Dalkılıç, [DFT and TD-DFT studies of new pentacene-based organic molecules as a donor material for bulk-heterojunction solar cells](https://www.springerprofessional.de/dft-and-td-dft-studies-of-new-pentacene-based-organic-molecules-/17889704), *Journal of Computational Electronics*, in press, (2020).
+*40.* İ. Muz, **M.Kurban** and M. Dalkılıç, [DFT and TD-DFT studies of new pentacene-based organic molecules as a donor material for bulk-heterojunction solar cells](https://www.springerprofessional.de/dft-and-td-dft-studies-of-new-pentacene-based-organic-molecules-/17889704), *Journal of Computational Electronics*, 19, 895-904, (2020).
 
 *39.*  F. Kara, **M.Kurban**, and B. Coşkun, [Evaluation of electronic transport and optical response of two-dimensional Fe-doped TiO2 thin films for photodetector applications](https://www.sciencedirect.com/science/article/abs/pii/S0030402620304393), *Optik*, 210, 16405(1-7), (2020).
 
@@ -38,7 +38,7 @@ theme: united
 
 *35.* T. Zerrin, **M.Kurban**, Matthew M. Dickson., M. Özkan and C. Özkan, [Supression of the Shuttle Effect in Li-S Batteries via Magention TiO2 Thin Film at the Electrode-Electroyte Interface](https://pubs.acs.org/doi/10.1021/acsaem.9b01960), *ACS Applied Energy Materials*, 3(2), 1515-1529, (2020).
 
-*34.* B. Köylüoğlu, S. Alei and **M.Kurban**, [Molecular dynamics study on composition and temperature dependences of mechanical properties of CdTeSe nanowires under uniaxial stretching](https://www.worldscientific.com/doi/abs/10.1142/S0217979219503739), *International Journal of Modern Physics B*, 33, 1950373, (2019).
+*34.* B. Köylüoğlu, S. Alei and **M.Kurban**, [Molecular dynamics study on composition and temperature dependences of mechanical properties of CdTeSe nanowires under uniaxial stretching](https://www.worldscientific.com/doi/abs/10.1142/S0217979219503739), *International Journal of Modern Physics B*, 33, 1950373(1-9), (2019).
 
 *33*. H. Kurban, **M.Kurban** and M. Dalkılıç,  [Density-functional tight-binding approach for the structural analysis and electronic structure of copper hydride metallic nanoparticles](https://www.sciencedirect.com/science/article/abs/pii/S2352492819307469), *Materials Today Communications*, 21, 100648(1-7), (2019).
 
