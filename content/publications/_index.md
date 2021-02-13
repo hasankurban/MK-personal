@@ -10,6 +10,10 @@ theme: united
 	
 ##  **Journal Articles**
 
+*48.* I. Muz, H. Kurban and **M.Kurban**, [A DFT study on stability and electronic structure of AlN nanotubes](https://www.sciencedirect.com/science/article/pii/S2352492821001100), *Materials Today Communications*, 26, 102118(1-7), (2021).
+
+*47.* H. Kurban, S. Alaei and **M.Kurban**, [Effect of Mg content on electronic structure, optical and structural properties of amorphous ZnO nanoparticles: A DFTB study](https://www.sciencedirect.com/science/article/pii/S0022309321000855), *Journal of Non-Crystalline Solids*, 560, 120726(1-6), (2021).
+
  *46.* M. Kanli, **M. Kurban**  , B. Ozdemir, A. Onen and E. Durgun, [Single- and Multi-Layer Arsenene as an Anode Material for Li, Na, and K-ion Battery Applications](https://www.sciencedirect.com/science/article/pii/S0927025620304912), *Computational Materials Science*, 186: 110000,  (2021).
 
  *45.* İ. Muz, F. Göktaş and **M. Kurban**, [Size dependence in the electronic and optical properties of a BN analogue of two-dimensional graphdiyne: A theoretical study](https://www.sciencedirect.com/science/article/abs/pii/S0301010420306868?via%3Dihub), *Chemical Physics*, 539, 110929(1-6), (2020).
@@ -56,7 +60,7 @@ theme: united
 
 *24.* **M.Kurban**, B. Gündüz, F. Göktaş, [Experimental and Theoretical Studies of the structural, electronic and optical properties of BCzVB organic material](https://www.sciencedirect.com/science/article/abs/pii/S0030402619300804), *Optik*, 182, 611-617 (2019).
 
-*23.* **M.Kurban**, [Molecular Dynamics study on the structural, thermal and energetic properties of GaAs Nanoparticles](https://dergipark.org.tr/en/download/article-file/607246), *Journal of Alloys and Compounds*, 19(3), 620-627, (2018).
+*23.* **M.Kurban**, [Molecular Dynamics study on the structural, thermal and energetic properties of GaAs Nanoparticles](https://dergipark.org.tr/en/download/article-file/607246), *ESTUJST-A*, 19(3), 620-627, (2018).
 
 *22.* E. B. Sas, **M.Kurban**, B. Gündüz, M. Kurt, [Photophysical, spectroscopic properties and electronic structure of BND: Experiment and theory](https://www.sciencedirect.com/science/article/abs/pii/S037967791830376X), *Synthetic Metals*, 246, 39-44, (2018).
 
