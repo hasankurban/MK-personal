@@ -10,6 +10,11 @@ theme: united
 	
 ##  **Journal Articles**
 
+*50.* I. Muz, S. Alaei and **M.Kurban**, [Sensing capability and diameter-dependent electronic 
+structure of boron nitride nanotubes](https://www.sciencedirect.com/science/article/pii/S2352492821002440), *Materials Today Communications*,  27, 102252(1-8), (2021).
+
+*49.* H. Kurban and **M.Kurban**, [Rare-class learning over Mg-doped ZnO nanoparticles](https://www.sciencedirect.com/science/article/pii/S0301010421000707), *Chemical Physics*, 546, 111159(1-9), (2021).
+
 *48.* I. Muz, H. Kurban and **M.Kurban**, [A DFT study on stability and electronic structure of AlN nanotubes](https://www.sciencedirect.com/science/article/pii/S2352492821001100), *Materials Today Communications*, 26, 102118(1-7), (2021).
 
 *47.* H. Kurban, S. Alaei and **M.Kurban**, [Effect of Mg content on electronic structure, optical and structural properties of amorphous ZnO nanoparticles: A DFTB study](https://www.sciencedirect.com/science/article/pii/S0022309321000855), *Journal of Non-Crystalline Solids*, 560, 120726(1-6), (2021).
