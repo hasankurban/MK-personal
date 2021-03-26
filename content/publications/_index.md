@@ -10,7 +10,7 @@ theme: united
 	
 ##  **Journal Articles**
 
-*51.* H. Kurban, **M. Kurban** P. Sharma, M. Dalkilic, [Predicting Atom Types of Anatase TiO2 Nanoparticles with Machine Learning](https://www.scientific.net/KEM.880.89), *Materials Today Communications*,  vol.880, pp.89-94, 2021.
+*51.* H. Kurban, **M. Kurban**, P. Sharma and M. Dalkilic, [Predicting Atom Types of Anatase TiO2 Nanoparticles with Machine Learning](https://www.scientific.net/KEM.880.89), *Key Engineering Materials*,  880, 89-94, (2021).
 
 *50.* I. Muz, S. Alaei and **M.Kurban**, [Sensing capability and diameter-dependent electronic 
 structure of boron nitride nanotubes](https://www.sciencedirect.com/science/article/pii/S2352492821002440), *Materials Today Communications*,  27, 102252(1-8), (2021).
