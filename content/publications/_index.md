@@ -10,6 +10,8 @@ theme: united
 	
 ##  **Journal Articles**
 
+*52.* H. Kurban and **M.Kurban**,  Building Machine Learning Systems for Multi-Atoms Structures: CH3NH3PbI3 Perovskite Nanoparticles, *Computational Materials Science*, In Press, (2021).
+
 *51.* H. Kurban, **M. Kurban**, P. Sharma and M. Dalkilic, [Predicting Atom Types of Anatase TiO2 Nanoparticles with Machine Learning](https://www.scientific.net/KEM.880.89), *Key Engineering Materials*,  880, 89-94, (2021).
 
 *50.* I. Muz, S. Alaei and **M.Kurban**, [Sensing capability and diameter-dependent electronic 
