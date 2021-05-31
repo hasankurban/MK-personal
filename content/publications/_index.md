@@ -231,4 +231,14 @@ structure of boron nitride nanotubes](https://www.sciencedirect.com/science/arti
 + Chemical-Physics
 + RSC-Advances
 + Modelling and Simulation in Materials Science
-
++ Materials Today Proceedings
++ Gazi University Journal of Science
++ Scientific Reports
++ Surfaces and Interfaces
++ Advances in Condensed Matter Physics
++ South African Journal of Chemical Engineering
++ Multidiscipline Modeling in Materials and Structures
++ Advanced Theory and Simulations
++ NANO
++ Proceedings of Engineering and Technology Innovation
++ Nano Express
