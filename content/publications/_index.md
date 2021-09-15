@@ -10,6 +10,9 @@ theme: united
 	
 ##  **Journal Articles**
 
+*54.* I. Muz, F. Goktas and **M.Kurban**, [ A density functional theory study on favipiravir 
+drug interaction with BN-doped C60 heterofullerene](), *Physica E: Low-dimensional Systems and Nanostructures*, 135, 114950, (2022)
+
 *53.* I. Muz and **M.Kurban**, [A First-Principles Evaluation on the Interaction of 1,3,4-Oxadiazole with Pristine and B-, Al-, Ga-doped C60 Fullerenes](https://www.sciencedirect.com/science/article/abs/pii/S0167732221009089?via%3Dihub), *Journal of Molecular Liquids*, 335, 116181, (2021).
 
 *52.* H. Kurban and **M.Kurban**, [Building Machine Learning Systems for Multi-Atoms Structures: CH3NH3PbI3 Perovskite Nanoparticles](https://www.sciencedirect.com/science/article/pii/S0927025621002159?dgcid=author), *Computational Materials Science*, 195, 110490(1-9), (2021).
@@ -236,9 +239,15 @@ structure of boron nitride nanotubes](https://www.sciencedirect.com/science/arti
 + Scientific Reports
 + Surfaces and Interfaces
 + Advances in Condensed Matter Physics
-+ South African Journal of Chemical Engineering
++ South African Journal of Chemical Engineering	
 + Multidiscipline Modeling in Materials and Structures
 + Advanced Theory and Simulations
 + NANO
 + Proceedings of Engineering and Technology Innovation
 + Nano Express
++ ChemistrySelect
++ Frointers in Materials: Quantum Materials
++ Chemical Reviews
++ International Journal of Hydrogen Energy
++ Materials Research Bulletin
++ Journal of Metals, Materials and Minerals
