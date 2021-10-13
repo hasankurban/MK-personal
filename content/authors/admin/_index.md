@@ -46,5 +46,5 @@ user_groups:
 ---
 
 
-I am an associate professor in the Department of Electronics and Automation at [Kırşehir Ahi Evran University](https://www.ahievran.edu.tr/en/). I received my Ph.D. in computational physics from Middle East Technical University in 2016, and as a post-doc, I have studied density-functional tight-binding theory at [University of California, Riverside](https://www.ucr.edu/) from 2018 to 2019. My expertise is on exploring photophysical, optical and structural properties of bulk heterojunction solar cells, rechargeable batteries, organic materials, drug delivery systems, energy storage, nanomaterials including nanotubes, nanoparticles, nanowires, 2D materials.  
+I am an associate professor in the Department of Electrical and Electronics Engineering at [Kırşehir Ahi Evran University](https://www.ahievran.edu.tr/en/). I received my Ph.D. in computational physics from Middle East Technical University in 2016, and as a post-doc, I have studied density-functional tight-binding theory at [University of California, Riverside](https://www.ucr.edu/) from 2018 to 2019. My expertise is on exploring photophysical, optical and structural properties of bulk heterojunction solar cells, rechargeable batteries, organic materials, drug delivery systems, energy storage, nanomaterials including nanotubes, nanoparticles, nanowires, 2D materials.  
 
