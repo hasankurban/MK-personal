@@ -11,7 +11,7 @@ theme: united
 ##  **Journal Articles**
 
 *54.* I. Muz, F. Goktas and **M.Kurban**, [ A density functional theory study on favipiravir 
-drug interaction with BN-doped C60 heterofullerene](), *Physica E: Low-dimensional Systems and Nanostructures*, 135, 114950, (2022)
+drug interaction with BN-doped C60 heterofullerene](https://www.sciencedirect.com/science/article/abs/pii/S1386947721003209     ), *Physica E: Low-dimensional Systems and Nanostructures*, 135, 114950, (2022)
 
 *53.* I. Muz and **M.Kurban**, [A First-Principles Evaluation on the Interaction of 1,3,4-Oxadiazole with Pristine and B-, Al-, Ga-doped C60 Fullerenes](https://www.sciencedirect.com/science/article/abs/pii/S0167732221009089?via%3Dihub), *Journal of Molecular Liquids*, 335, 116181, (2021).
 
