@@ -16,7 +16,7 @@ theme: united
 
 *59.* Arash Mirjalili, Bo Dong, Taner Zerrin, Amir-Ali Akhavi, **M.Kurban**, Mihrimah Ozkan, Cengiz Ozkan,  Superporous Nanocarbon Materials Upcycled from Polyethylene Terephthalate Waste for Scalable Energy Storage, *Journal of Energy Storage*,  (Under review, 2022)
 
-*58.* Rahma El Mouhi, Ossama Daoui; Asmae Fitri; Adil Touimi Benjelloun, Souad ElKhattabi, Mohammed Benzakour, Mohammed Mcharfi, **M.Kurban**, Theoretical design of new small molecules based on thieno [2,3-b] indole for application in organic bulk heterojunction solar cells: DFT, TD-DFT and 3D-QSPR study, *Polyme*,  (Under-review, 2022)
+*58.* Rahma El Mouhi, Ossama Daoui; Asmae Fitri; Adil Touimi Benjelloun, Souad ElKhattabi, Mohammed Benzakour, Mohammed Mcharfi, **M.Kurban**, Theoretical design of new small molecules based on thieno [2,3-b] indole for application in organic bulk heterojunction solar cells: DFT, TD-DFT and 3D-QSPR study, *Polymer*,  (Under-review, 2022)
 
 *57.* **M.Kurban** and I. Muz, Size-Dependent Adsorption Performance of ZnO Nanocluster for Drug Delivery Applications, *Surface Science*,  (Under-review, 2022)
 
