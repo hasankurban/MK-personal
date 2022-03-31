@@ -18,7 +18,7 @@ theme: united
 
 *58.* Rahma El Mouhi, Ossama Daoui; Asmae Fitri; Adil Touimi Benjelloun, Souad ElKhattabi, Mohammed Benzakour, Mohammed Mcharfi, **M.Kurban**, Theoretical design of new small molecules based on thieno [2,3-b] indole for application in organic bulk heterojunction solar cells: DFT, TD-DFT and 3D-QSPR study, *Polymer*,  (Under-review, 2022)
 
-*57.* **M.Kurban** and I. Muz, Size-Dependent Adsorption Performance of ZnO Nanocluster for Drug Delivery Applications, *Surface Science*,  (Under-review, 2022)
+*57.* **M.Kurban** and I. Muz, Size-Dependent Adsorption Performance of ZnO Nanocluster for Drug Delivery Applications, *Surface and Interface Analysis*,  (Under-review, 2022)
 
 *56.* I. Muz and **M.Kurban**, Zinc Oxide Nanoclusters and Their Potential Application as CH4 and CO2 Gas Sensors: Insight from DFT and TD-DFT, *, Journal of Computational Chemistry*,  (Under-review, 2022)
 
