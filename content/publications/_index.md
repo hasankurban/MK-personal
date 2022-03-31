@@ -10,7 +10,7 @@ theme: united
 	
 ##  **Journal Articles**
 
-*61.* H. Kurban, M. Kurban, Scott Beason and M. Dalkilic,  An Efficient and Novel Approach for Predicting Kohn-Sham Total Energy: Bootstrapping a Cooperative Model Framework with Minimal Viable Theoretical Data, *Scientific Report*,  (in preparation, 2022)
+*61.* H. Kurban, **M. Kurban**, Scott Beason and M. Dalkilic,  An Efficient and Novel Approach for Predicting Kohn-Sham Total Energy: Bootstrapping a Cooperative Model Framework with Minimal Viable Theoretical Data, *Scientific Report*,  (in preparation, 2022)
 
 *60.* Cengiz Sinan Ozkan, Miguel Isarraraz, Pedro Pena, Han Li, Amir-Ali Akhavi, Mina Rashetnia, William Coley, Yongtao Cui, **M.Kurban**, Sefaattin Tongay,  Mihrimah Ozkan, Cengiz Ozkan,  Chelant Enhanced Solution for Wafer-Scale Synthesis of Few-Layer WS2 Films, *MRS Bulletin*,  (Under review, 2022)
 
