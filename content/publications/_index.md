@@ -10,8 +10,22 @@ theme: united
 	
 ##  **Journal Articles**
 
+*61.* H. Kurban, M. Kurban, Scott Beason and M. Dalkilic,  An Efficient and Novel Approach for Predicting Kohn-Sham Total Energy: Bootstrapping a Cooperative Model Framework with Minimal Viable Theoretical Data, *Scientific Report*,  (in preparation, 2022)
+
+*60.* Cengiz Sinan Ozkan, Miguel Isarraraz, Pedro Pena, Han Li, Amir-Ali Akhavi, Mina Rashetnia, William Coley, Yongtao Cui, **M.Kurban**, Sefaattin Tongay,  Mihrimah Ozkan, Cengiz Ozkan,  Chelant Enhanced Solution for Wafer-Scale Synthesis of Few-Layer WS2 Films, *MRS Bulletin*,  (Under review, 2022)
+
+*59.* Arash Mirjalili, Bo Dong, Taner Zerrin, Amir-Ali Akhavi, **M.Kurban**, Mihrimah Ozkan, Cengiz Ozkan,  Superporous Nanocarbon Materials Upcycled from Polyethylene Terephthalate Waste for Scalable Energy Storage, *Journal of Energy Storage*,  (Under review, 2022)
+
+*58.* Rahma El Mouhi, Ossama Daoui; Asmae Fitri; Adil Touimi Benjelloun, Souad ElKhattabi, Mohammed Benzakour, Mohammed Mcharfi, **M.Kurban**, Theoretical design of new small molecules based on thieno [2,3-b] indole for application in organic bulk heterojunction solar cells: DFT, TD-DFT and 3D-QSPR study, *Polyme*,  (Under-review, 2022)
+
+*57.* **M.Kurban** and I. Muz, Size-Dependent Adsorption Performance of ZnO Nanocluster for Drug Delivery Applications, *Surface Science*,  (Under-review, 2022)
+
+*56.* I. Muz and **M.Kurban**, Zinc Oxide Nanoclusters and Their Potential Application as CH4 and CO2 Gas Sensors: Insight from DFT and TD-DFT, *, Journal of Computational Chemistry*,  (Under-review, 2022)
+
+*55.* Rahma El Mouhi, Ahmed Slimi, Asmae Fitri, Adil Touimi Benjelloun, Souad ElKhattabi, Mohammed Benzakour, Mohammed Mcharfi, **M.Kurban**, [ DFT, DFTB and TD-DFT theoretical investigations of π-conjugated molecules based on thieno[2,3-b] indole for dye-sensitized solar cell applications](https://www.sciencedirect.com/science/article/pii/S092145262200182X), *Physica B: Condensed Matter*, 636, 413850, (2022).
+
 *54.* I. Muz, F. Goktas and **M.Kurban**, [ A density functional theory study on favipiravir 
-drug interaction with BN-doped C60 heterofullerene](https://www.sciencedirect.com/science/article/abs/pii/S1386947721003209     ), *Physica E: Low-dimensional Systems and Nanostructures*, 135, 114950, (2022)
+drug interaction with BN-doped C60 heterofullerene](https://www.sciencedirect.com/science/article/abs/pii/S1386947721003209     q), *Physica E: Low-dimensional Systems and Nanostructures*, 135, 114950, (2022)
 
 *53.* I. Muz and **M.Kurban**, [A First-Principles Evaluation on the Interaction of 1,3,4-Oxadiazole with Pristine and B-, Al-, Ga-doped C60 Fullerenes](https://www.sciencedirect.com/science/article/abs/pii/S0167732221009089?via%3Dihub), *Journal of Molecular Liquids*, 335, 116181, (2021).
 
