@@ -10,17 +10,18 @@ theme: united
 	
 ##  **Journal Articles**
 
-*61.* H. Kurban, **M. Kurban**, Scott Beason and M. Dalkilic,  An Efficient and Novel Approach for Predicting Kohn-Sham Total Energy: Bootstrapping a Cooperative Model Framework with Minimal Viable Theoretical Data, *Scientific Report*,  (in preparation, 2022)
 
-*60.* Cengiz Sinan Ozkan, Miguel Isarraraz, Pedro Pena, Han Li, Amir-Ali Akhavi, Mina Rashetnia, William Coley, Yongtao Cui, **M.Kurban**, Sefaattin Tongay,  Mihrimah Ozkan, Cengiz Ozkan,  Chelant Enhanced Solution for Wafer-Scale Synthesis of Few-Layer WS2 Films, *MRS Bulletin*,  (Under review, 2022)
+*61.* Cengiz Sinan Ozkan, Miguel Isarraraz, Pedro Pena, Han Li, Amir-Ali Akhavi, Mina Rashetnia, William Coley, Yongtao Cui, **M.Kurban**, Sefaattin Tongay,  Mihrimah Ozkan, Cengiz Ozkan,  Chelant Enhanced Solution for Wafer-Scale Synthesis of Few-Layer WS2 Films, *MRS Bulletin*,  (Under review, 2022)
 
-*59.* Arash Mirjalili, Bo Dong, Taner Zerrin, Amir-Ali Akhavi, **M.Kurban**, Mihrimah Ozkan, Cengiz Ozkan,  Superporous Nanocarbon Materials Upcycled from Polyethylene Terephthalate Waste for Scalable Energy Storage, *Journal of Energy Storage*,  (Under review, 2022)
+*60.* Arash Mirjalili, Bo Dong, Taner Zerrin, Amir-Ali Akhavi, **M.Kurban**, Mihrimah Ozkan, Cengiz Ozkan,  Superporous Nanocarbon Materials Upcycled from Polyethylene Terephthalate Waste for Scalable Energy Storage, *Journal of Energy Storage*,  (Under review, 2022)
 
-*58.* Rahma El Mouhi, Ossama Daoui; Asmae Fitri; Adil Touimi Benjelloun, Souad ElKhattabi, Mohammed Benzakour, Mohammed Mcharfi, **M.Kurban**, Theoretical design of new small molecules based on thieno [2,3-b] indole for application in organic bulk heterojunction solar cells: DFT, TD-DFT and 3D-QSPR study, *Polymer*,  (Under-review, 2022)
+*59.* Rahma El Mouhi, Ossama Daoui; Asmae Fitri; Adil Touimi Benjelloun, Souad ElKhattabi, Mohammed Benzakour, Mohammed Mcharfi, **M.Kurban**, Theoretical design of new small molecules based on thieno [2,3-b] indole for application in organic bulk heterojunction solar cells: DFT, TD-DFT and 3D-QSPR study, *New Journal of Chemistry*,  (Under-review, 2022)
 
-*57.* **M.Kurban** and I. Muz, Size-Dependent Adsorption Performance of ZnO Nanocluster for Drug Delivery Applications, *Surface and Interface Analysis*,  (Under-review, 2022)
+*58.* **M.Kurban** and I. Muz, Size-Dependent Adsorption Performance of ZnO Nanocluster for Drug Delivery Applications, *Structural Chemistry*,  (Under-review, 2022)
 
-*56.* I. Muz and **M.Kurban**, Zinc Oxide Nanoclusters and Their Potential Application as CH4 and CO2 Gas Sensors: Insight from DFT and TD-DFT, *, Journal of Computational Chemistry*,  (Under-review, 2022)
+*57.* H. Kurban, **M.Kurban** and M. M. Dalkilic, [Rapidly predicting Kohn–Sham total energy using data‑centric AI](https://www.nature.com/articles/s41598-022-18366-7), *Scientific Reports*,  12, 14403, (2022).
+
+*56.* I. Muz and **M.Kurban**, [Zinc Oxide Nanoclusters and Their Potential Application as CH4 and CO2 Gas Sensors: Insight from DFT and TD-DFT](https://onlinelibrary.wiley.com/doi/10.1002/jcc.26986), *Journal of Computational Chemistry*,  43, 1-9, (2022).
 
 *55.* Rahma El Mouhi, Ahmed Slimi, Asmae Fitri, Adil Touimi Benjelloun, Souad ElKhattabi, Mohammed Benzakour, Mohammed Mcharfi, **M.Kurban**, [ DFT, DFTB and TD-DFT theoretical investigations of π-conjugated molecules based on thieno[2,3-b] indole for dye-sensitized solar cell applications](https://www.sciencedirect.com/science/article/pii/S092145262200182X), *Physica B: Condensed Matter*, 636, 413850, (2022).
 
