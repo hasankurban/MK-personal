@@ -266,3 +266,15 @@ structure of boron nitride nanotubes](https://www.sciencedirect.com/science/arti
 + International Journal of Hydrogen Energy
 + Materials Research Bulletin
 + Journal of Metals, Materials and Minerals
++ Current Research in Green and Sustainable Chemistry
++ Results in Pyhsics
++ International Journal of Energy Research
++ Physica Scripta
++ Monatshefte für Chemie - Chemical Monthly
++ Journal of Materials Science and Metallurgy
++ Chemical Physics Impact
++ Journal of Magnesium and Alloys
++ Materials Science & Engineering B
++ Advances in Nano Research, An International Journal
++ Arabian Journal of Chemistry
++ Optical and Quantum Electronics 
