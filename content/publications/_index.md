@@ -17,7 +17,6 @@ theme: united
 
 *59.* Rahma El Mouhi, Ossama Daoui; Asmae Fitri; Adil Touimi Benjelloun, Souad ElKhattabi, Mohammed Benzakour, Mohammed Mcharfi, **M.Kurban**, Theoretical design of new small molecules based on thieno [2,3-b] indole for application in organic bulk heterojunction solar cells: DFT, TD-DFT and 3D-QSPR study, *New Journal of Chemistry*,  (Under-review, 2022)
 
-*58.* **M.Kurban** and I. Muz, [Size-Dependent Adsorption Performance of ZnO Nanocluster for Drug Delivery Applications](https://link.springer.com/article/10.1007/s11224-022-02063-2), *Structural Chemistry*, (2022).
 
 *57.* H. Kurban, **M.Kurban** and M. M. Dalkilic, [Rapidly predicting Kohn–Sham total energy using data‑centric AI](https://www.nature.com/articles/s41598-022-18366-7), *Scientific Reports*,  12, 14403, (2022).
 
