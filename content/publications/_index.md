@@ -15,7 +15,7 @@ theme: united
 
 *60.* A. Mirjalili, B. Dong, T. Zerrin, A.-Ali Akhavi, **M.Kurban**, M. Ozkan, C. Ozkan,  [Superporous Nanocarbon Materials Upcycled from Polyethylene Terephthalate Waste for Scalable Energy Storage](https://www.sciencedirect.com/science/article/abs/pii/S2352152X22023180), *Journal of Energy Storage*,  58, 106329 (2023).
 
-*59.* R. El Mouhi, O. Daoui, A. Fitri, A. T. Benjelloun, S. ElKhattabi,  M. Benzakour, M. Mcharfi, **M.Kurban**,  [A strategy to enhance VOC of \pi -conjugated molecules based on thieno[2,3-b] indole  for applications in bulk heterojunction organic solar cells using DFT, TD-DFT, and 3D-QSPR modeling studies](https://pubs.rsc.org/en/content/articlelanding/2023/nj/d2nj04281a/unauth), *Journal of Chemistry*,  47, 812-827, (2023).
+*59.* R. El Mouhi, O. Daoui, A. Fitri, A. T. Benjelloun, S. ElKhattabi,  M. Benzakour, M. Mcharfi, **M.Kurban**,  [A strategy to enhance VOC of $\pi$-conjugated molecules based on thieno[2,3-b] indole  for applications in bulk heterojunction organic solar cells using DFT, TD-DFT, and 3D-QSPR modeling studies](https://pubs.rsc.org/en/content/articlelanding/2023/nj/d2nj04281a/unauth), *Journal of Chemistry*,  47, 812-827, (2023).
 
 *58.* **M.Kurban** and I. Muz, [Size-Dependent Adsorption Performance of ZnO Nanocluster for Drug Delivery Applications](https://link.springer.com/article/10.1007/s11224-022-02063-2), *Structural Chemistry*, (2022).
 
