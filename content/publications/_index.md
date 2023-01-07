@@ -13,9 +13,9 @@ theme: united
 
 *61.* Cengiz Sinan Ozkan, Miguel Isarraraz, Pedro Pena, Han Li, Amir-Ali Akhavi, Mina Rashetnia, William Coley, Yongtao Cui, **M.Kurban**, Sefaattin Tongay,  Mihrimah Ozkan, Cengiz Ozkan,  Chelant Enhanced Solution for Wafer-Scale Synthesis of Few-Layer WS2 Films, *MRS Bulletin*,  (Under review, 2023)
 
-*60.* Arash Mirjalili, Bo Dong, Taner Zerrin, Amir-Ali Akhavi, **M.Kurban**, Mihrimah Ozkan, Cengiz Ozkan,  [Superporous Nanocarbon Materials Upcycled from Polyethylene Terephthalate Waste for Scalable Energy Storage](https://www.sciencedirect.com/science/article/abs/pii/S2352152X22023180), *Journal of Energy Storage*,  58, 106329 (2023).
+*60.* A. Mirjalili, B. Dong, T. Zerrin, A.-Ali Akhavi, **M.Kurban**, M. Ozkan, C. Ozkan,  [Superporous Nanocarbon Materials Upcycled from Polyethylene Terephthalate Waste for Scalable Energy Storage](https://www.sciencedirect.com/science/article/abs/pii/S2352152X22023180), *Journal of Energy Storage*,  58, 106329 (2023).
 
-*59.* Rahma El Mouhi, Ossama Daoui; Asmae Fitri; Adil Touimi Benjelloun, Souad ElKhattabi, Mohammed Benzakour, Mohammed Mcharfi, **M.Kurban**,  [A strategy to enhance VOC of $\phi$-conjugated molecules based on thieno[2,3-b] indole  for applications in bulk heterojunction organic solar cells using DFT, TD-DFT, and 3D-QSPR modeling studies](https://pubs.rsc.org/en/content/articlelanding/2023/nj/d2nj04281a/unauth), *Journal of Chemistry*,  47, 812-827, (2023).
+*59.* R. El Mouhi, O. Daoui, A. Fitri, A. T. Benjelloun, S. ElKhattabi,  M. Benzakour, M. Mcharfi, **M.Kurban**,  [A strategy to enhance VOC of $\phi$-conjugated molecules based on thieno[2,3-b] indole  for applications in bulk heterojunction organic solar cells using DFT, TD-DFT, and 3D-QSPR modeling studies](https://pubs.rsc.org/en/content/articlelanding/2023/nj/d2nj04281a/unauth), *Journal of Chemistry*,  47, 812-827, (2023).
 
 *58.* **M.Kurban** and I. Muz, [Size-Dependent Adsorption Performance of ZnO Nanocluster for Drug Delivery Applications](https://link.springer.com/article/10.1007/s11224-022-02063-2), *Structural Chemistry*, (2022).
 
