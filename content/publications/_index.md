@@ -11,7 +11,11 @@ theme: united
 ##  **Journal Articles**
 
 
-*61.* Cengiz Sinan Ozkan, Miguel Isarraraz, Pedro Pena, Han Li, Amir-Ali Akhavi, Mina Rashetnia, William Coley, Yongtao Cui, **M.Kurban**, Sefaattin Tongay,  Mihrimah Ozkan, Cengiz Ozkan,  Chelant Enhanced Solution for Wafer-Scale Synthesis of Few-Layer WS2 Films, *MRS Bulletin*,  (Under review, 2023)
+*62.* Cengiz Sinan Ozkan, Miguel Isarraraz, Pedro Pena, Han Li, Amir-Ali Akhavi, Mina Rashetnia, William Coley, Yongtao Cui, **M.Kurban**, Sefaattin Tongay,  Mihrimah Ozkan, Cengiz Ozkan,  Chelant Enhanced Solution for Wafer-Scale Synthesis of Few-Layer WS2 Films, *MRS Bulletin*,  (Under review, 2023)
+
+
+*61.*  **M.Kurban**,[Sulfur doping concentration effect on the electronic and structural
+properties of ZnO nanoparticles: Insights from DFTB calculations](https://www.sciencedirect.com/science/article/pii/S2210271X23000944), *Computational and Theoretical Chemistry*,  1224, 114112, (2023).
 
 *60.* A. Mirjalili, B. Dong, T. Zerrin, A.-Ali Akhavi, **M.Kurban**, M. Ozkan, C. Ozkan,  [Superporous Nanocarbon Materials Upcycled from Polyethylene Terephthalate Waste for Scalable Energy Storage](https://www.sciencedirect.com/science/article/abs/pii/S2352152X22023180), *Journal of Energy Storage*,  58, 106329 (2023).
 
