@@ -13,7 +13,7 @@ theme: united
 
 *64.* Cengiz Sinan Ozkan, Miguel Isarraraz, Pedro Pena, Han Li, Amir-Ali Akhavi, Mina Rashetnia, William Coley, Yongtao Cui, **M.Kurban**, Sefaattin Tongay,  Mihrimah Ozkan, Cengiz Ozkan,  Chelant Enhanced Solution for Wafer-Scale Synthesis of Few-Layer WS2 Films, *MRS Bulletin*,  (Under review, 2023)
 
-*63.*  **M.Kurban**,Y. Simsek, S. Erkoc, [II-VI Semiconductors Bandgap Engineering](https://link.springer.com/chapter/10.1007/978-3-031-19531-0_5),  Vol. 1, 109-131 (2023)
+*63.*  **M.Kurban**,Y. Simsek, S. Erkoc, [II-VI Semiconductors Bandgap Engineering](https://link.springer.com/chapter/10.1007/978-3-031-19531-0_5),  Vol. 1, 109-131 (2023).
 
 
 *62.*  **M.Kurban**, O. B. Malc?oglu, S. Erkoc, [Ternary II-VI Alloys Promising for Application in PhotodetectorsTernary II-VI Alloys Promising for Application in Photodetectors](https://link.springer.com/chapter/10.1007/978-3-031-19531-0_4),  Vol. 1, 87-107, (2023).
