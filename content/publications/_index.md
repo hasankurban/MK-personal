@@ -16,7 +16,7 @@ theme: united
 *63.*  **M.Kurban**,Y. Simsek, S. Erkoc, [II-VI Semiconductors Bandgap Engineering](https://link.springer.com/chapter/10.1007/978-3-031-19531-0_5),  Vol. 1, 109-131 (2023).
 
 
-*62.*  **M.Kurban**, O. B. Malc?oglu, S. Erkoc, [Ternary II-VI Alloys Promising for Application in PhotodetectorsTernary II-VI Alloys Promising for Application in Photodetectors](https://link.springer.com/chapter/10.1007/978-3-031-19531-0_4),  Vol. 1, 87-107, (2023).
+*62.*  **M.Kurban**, O. B. Malcioglu, S. Erkoc, [Ternary II-VI Alloys Promising for Application in PhotodetectorsTernary II-VI Alloys Promising for Application in Photodetectors](https://link.springer.com/chapter/10.1007/978-3-031-19531-0_4),  Vol. 1, 87-107, (2023).
 
 *61.*  **M.Kurban**,[Sulfur doping concentration effect on the electronic and structural
 properties of ZnO nanoparticles: Insights from DFTB calculations](https://www.sciencedirect.com/science/article/pii/S2210271X23000944), *Computational and Theoretical Chemistry*,  1224, 114112, (2023).
