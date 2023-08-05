@@ -11,7 +11,7 @@ theme: united
 ##  **Journal Articles**
 
 
-*64.* M. Isarraraz, P. Pena, M. Sayyad, S. Yang, H. Li, Amir-Ali Akhavi, M. Rashetnia, R. Shang, W. Coley, Y. Cui,**M.Kurban**, S. Tongay, 
+*64.* M. Isarraraz, P. Pena, M. Sayyad, S. Yang, H. Li, Amir-Ali Akhavi, M. Rashetnia, R. Shang, W. Coley, Y. Cui, **M.Kurban**, S. Tongay, 
 M. Ozkan & C. S. Ozkan,  [Chelant Enhanced Solution for Wafer-Scale Synthesis of Few-Layer WS2 Films](https://link.springer.com/article/10.1557/s43577-023-00557-w), *MRS Bulletin*,  48, 1-13, (2023).
 
 *63.*  **M.Kurban**,Y. Simsek, S. Erkoc, [II-VI Semiconductors Bandgap Engineering](https://link.springer.com/chapter/10.1007/978-3-031-19531-0_5),  Vol. 1, 109-131 (2023).
