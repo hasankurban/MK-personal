@@ -11,7 +11,8 @@ theme: united
 ##  **Journal Articles**
 
 
-*64.* Cengiz Sinan Ozkan, Miguel Isarraraz, Pedro Pena, Han Li, Amir-Ali Akhavi, Mina Rashetnia, William Coley, Yongtao Cui, **M.Kurban**, Sefaattin Tongay,  Mihrimah Ozkan, Cengiz Ozkan,  Chelant Enhanced Solution for Wafer-Scale Synthesis of Few-Layer WS2 Films, *MRS Bulletin*,  (Under review, 2023)
+*64.* M. Isarraraz, P. Pena, M. Sayyad, S. Yang, H. Li, Amir-Ali Akhavi, M. Rashetnia, R. Shang, W. Coley, Y. Cui,**M.Kurban**, S. Tongay, 
+M. Ozkan & C. S. Ozkan,  [Chelant Enhanced Solution for Wafer-Scale Synthesis of Few-Layer WS2 Films](https://link.springer.com/article/10.1557/s43577-023-00557-w), *MRS Bulletin*,  48, 1-13, (2023).
 
 *63.*  **M.Kurban**,Y. Simsek, S. Erkoc, [II-VI Semiconductors Bandgap Engineering](https://link.springer.com/chapter/10.1007/978-3-031-19531-0_5),  Vol. 1, 109-131 (2023).
 
@@ -25,7 +26,7 @@ properties of ZnO nanoparticles: Insights from DFTB calculations](https://www.sc
 
 *59.* R. El Mouhi, O. Daoui, A. Fitri, A. T. Benjelloun, S. ElKhattabi,  M. Benzakour, M. Mcharfi, **M.Kurban**,  [A strategy to enhance VOC of $\pi$-conjugated molecules based on thieno[2,3-b] indole  for applications in bulk heterojunction organic solar cells using DFT, TD-DFT, and 3D-QSPR modeling studies](https://pubs.rsc.org/en/content/articlelanding/2023/nj/d2nj04281a/unauth), *New Journal of Chemistry*,  47, 812-827, (2023).
 
-*58.* **M.Kurban** and I. Muz, [Size-Dependent Adsorption Performance of ZnO Nanocluster for Drug Delivery Applications](https://link.springer.com/article/10.1007/s11224-022-02063-2), *Structural Chemistry*, (2022).
+*58.* **M.Kurban** and I. Muz, [Size-Dependent Adsorption Performance of ZnO Nanocluster for Drug Delivery Applications](https://link.springer.com/article/10.1007/s11224-022-02063-2), *Structural Chemistry*, 34, 1061–1071, (2023).
 
 *57.* H. Kurban, **M.Kurban** and M. M. Dalkilic, [Rapidly predicting Kohn–Sham total energy using data‑centric AI](https://www.nature.com/articles/s41598-022-18366-7), *Scientific Reports*,  12, 14403, (2022).
 
