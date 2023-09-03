@@ -20,7 +20,7 @@ interests:
 - TD-DFT(B)
 name: Assoc. Prof. Mustafa Kurban
 organizations:
-- name: Kırşehir Ahi Evran University
+- name: Ankara University
   url: ""
 role: 
 social:
