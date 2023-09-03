@@ -52,7 +52,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "mkurbanphys@gmail.com"
 phone = ""
-address = "Kırşehir Ahi Evran Üniversitesi Bağbaşı Yerleşkesi Teknoloji Transferi Uygulama ve Araştırma Merkezi Bağbaşı Mah. Sahir Kurutluoğlu Cad. No: 100 Merkez/ KIRŞEHİR, TURKEY"
+address = "Ankara Üniversitesi Sağlık Bilimleri Fakültesi - Fatih Caddesi No:197/7 PK:06290 Keçiören/ANKARA, TURKEY"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 #office_hours = """Monday 10:00 to 13:00<br>
