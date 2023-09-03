@@ -44,5 +44,10 @@ user_groups:
 - Researchers
 - Visitors
 ---
+<style>
+body {
+text-align: justify}
+</style>
+
 
 Mustafa Kurban is an Associate Professor of Prosthetics & Orthotics Department at [Ankara University](https://www.ankara.edu.tr/en/). He holds a Ph.D. degree in Physics from [Middle East Technical University](https://www.metu.edu.tr/) in 2016 and a postdoc in Materials Science & Engineering at [University of California, Riverside](https://www.ucr.edu/) from 2018 to 2019. His research areas include energy storage, sensors, bulk heterojunction solar cells, machine learning in materials science, optics, drug delivery systems, nanomaterials, 2D materials, organic molecules and crystal structures. 
