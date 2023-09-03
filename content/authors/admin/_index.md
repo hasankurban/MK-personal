@@ -45,6 +45,4 @@ user_groups:
 - Visitors
 ---
 
-
-I am an associate professor in the Department of Electrical and Electronics Engineering at [Kırşehir Ahi Evran University](https://www.ahievran.edu.tr/en/). I received my Ph.D. in computational physics from Middle East Technical University in 2016, and as a post-doc, I have studied density-functional tight-binding theory at [University of California, Riverside](https://www.ucr.edu/) from 2018 to 2019. My expertise is on exploring photophysical, optical and structural properties of bulk heterojunction solar cells, rechargeable batteries, organic materials, drug delivery systems, energy storage, nanomaterials including nanotubes, nanoparticles, nanowires, 2D materials.  
-
+Mustafa Kurban is an Associate Professor of Prosthetics & Orthotics Department at [Ankara University](https://www.ankara.edu.tr/en/). He holds a Ph.D. degree in Physics from [Middle East Technical University](https://www.metu.edu.tr/) in 2016 and a postdoc in Materials Science & Engineering at [University of California, Riverside](https://www.ucr.edu/) from 2018 to 2019. His research areas include energy storage, sensors, bulk heterojunction solar cells, machine learning in materials science, optics, drug delivery systems, nanomaterials, 2D materials, organic molecules and crystal structures. 
