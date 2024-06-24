@@ -10,6 +10,8 @@ theme: united
 	
 ##  **Journal Articles**
 
+*66.* **M.Kurban**, İ Muz,  [Investigating the potential use of (ZnO)60 nanoparticle as drug delivery system for chloroquine, hydroxychloroquine, favipiravir, and remdesivir](https://www.sciencedirect.com/science/article/pii/S2352492824004689), *Materials Today Communications*,  38, 108488 (2024).
+
 
 *65.* R Shang, **M.Kurban**, Y ma, M Ozkan, CS Ozkan, **M.Kurban**,  [Rational design of SnO2 thin film coated cathode with function of entrapping polysulfides for performance enhanced Li–S batteries](https://www.sciencedirect.com/science/article/pii/S0378775324000958), *Journal of Power Sources*,  597, 234144 (2024).
 
