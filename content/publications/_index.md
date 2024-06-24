@@ -11,6 +11,8 @@ theme: united
 ##  **Journal Articles**
 
 
+*65.* R Shang, **M.Kurban**, Y ma, M Ozkan, CS Ozkan, **M.Kurban**,  [Rational design of SnO2 thin film coated cathode with function of entrapping polysulfides for performance enhanced Li–S batteries](https://www.sciencedirect.com/science/article/pii/S0378775324000958), *Journal of Power Sources*,  597, 234144 (2024).
+
 *64.* M. Isarraraz, P. Pena, M. Sayyad, S. Yang, H. Li, Amir-Ali Akhavi, M. Rashetnia, R. Shang, W. Coley, Y. Cui, **M.Kurban**, S. Tongay, 
 M. Ozkan & C. S. Ozkan,  [Chelant Enhanced Solution for Wafer-Scale Synthesis of Few-Layer WS2 Films](https://link.springer.com/article/10.1557/s43577-023-00557-w), *MRS Bulletin*,  48, 1-13, (2023).
 
