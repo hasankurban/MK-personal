@@ -10,6 +10,26 @@ theme: united
 	
 ##  **Journal Articles**
 
+*76.* A Maurya, M Pal, R Shukla, Z Siddiqui, S K Pathak, R Srivastava, V K Shukla, H Kulshrestha, **M.Kurban**, O Prasad, L Sinha, Spectroscopic, electronic structure, multi-targeted molecular docking and molecular dynamics simulation study of 4-(4-Methylpiperazin-1-yl)-5,6,7,8-tetrahydropyrido [4,3-d] pyrimidine with Anti-Breast Cancer Properties, New Journal of Chemistry, 2024 (submitted).
+
+*75*. C Polat, H Kurban, **M.Kurban**, Text-To-Energy: Accelerating QuantumChemistry Calculations through Text-to-Vector Encoding and Orbital-Aware Multilayer Perceptron, Scientific Reports, 2024 (submitted).
+
+*74*. C Polat, H Kurban, **M.Kurban**, QuantumShellNet: Ground-State Eigenvalue Prediction of Materials Using Electronic Shell Structures and Fermionic Properties via Convolutions, Computational Materials Science, 2024 (under review).
+
+*73.* L L Bechohra, **M.Kurban**, N E H Medigue, S Kellou-Taïri, Drug Delivery Potential of Carbon and Boron Nitride Nanotubes: A DFT-D3 Analysis of Curcumin Binding Interactions, Diamond & Related Materials, 2024 (under review).
+
+*72.* A Maurya, A N Mishra, J Srivastava, S Mishra, M Pal, R Shukla, Z Siddiqui, **M.Kurban**, O Prasad, L Sinha, Therapeutic Potential of γ-Graphyne, 6,6,12-Graphyne and γ-Graphdiyne as Drug Transporting Agents for 5-Fluorouracil drug: A DFT Study, Journal of Molecular Liquids, 2024 (under review).
+
+*71.* **M.Kurban**, C Polat, E Serpedin, H Kurban, Enhancing the Electronic Properties of TiO2 Nanoparticles through Carbon Doping: An Integrated DFTB and Computer Vision Approach, Computational Materials Science, 2024 (under review).
+
+*70.* **M.Kurban** and Z Shariatinia, Elucidating roles of fulleropyrrolidine-based materials as extraordinary electron transporters for boosting efficiency of perovskite photovoltaics, Journal of Physics and Chemistry of Solids, 2024 (under review).
+
+*69.* Z Shariatinia, **M.Kurban**, [Rational and green functionalization of B,N-C60 by DNA bases devised as incredible electron transport compounds for perovskite photovoltaic devices](https://www.sciencedirect.com/science/article/pii/S2352492824012418), Materials Today Communications, 109260 (2024).
+
+*68.* **M.Kurban**, TR Sertbakan, İ Muz, [Computational Analysis and Experimental Validation of a Quinoline Derivative for Optoelectronic and Pharmacological Applications](https://www.sciencedirect.com/science/article/pii/S2352492824006238), Materials Today Communications, 39, 108642 (2024).
+
+*67.* M Çadırcı, E Elibol, T Demirci, **M.Kurban**, [Investigating the effect of Zn-doping and temperature on the photoluminescence behaviour of CuLaSe2 quantum dot, Luminescence](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/full/10.1002/bio.4722), 39, e4722 (2024).
+
 *66.* **M.Kurban**, İ Muz,  [Investigating the potential use of (ZnO)60 nanoparticle as drug delivery system for chloroquine, hydroxychloroquine, favipiravir, and remdesivir](https://www.sciencedirect.com/science/article/pii/S2352492824004689), *Materials Today Communications*,  38, 108488 (2024).
 
 
