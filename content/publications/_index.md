@@ -12,7 +12,7 @@ theme: united
 
 *76.* A Maurya, M Pal, R Shukla, Z Siddiqui, S K Pathak, R Srivastava, V K Shukla, H Kulshrestha, **M.Kurban**, O Prasad, L Sinha, Spectroscopic, electronic structure, multi-targeted molecular docking and molecular dynamics simulation study of 4-(4-Methylpiperazin-1-yl)-5,6,7,8-tetrahydropyrido [4,3-d] pyrimidine with Anti-Breast Cancer Properties, New Journal of Chemistry, 2024 (submitted).
 
-*75*. C Polat, H Kurban, **M.Kurban**, Text-To-Energy: Accelerating QuantumChemistry Calculations through Text-to-Vector Encoding and Orbital-Aware Multilayer Perceptron, Scientific Reports, 2024 (submitted).
+*75*. C Polat, H Kurban, **M.Kurban**, Text-To-Energy: Accelerating QuantumChemistry Calculations through Text-to-Vector Encoding and Orbital-Aware Multilayer Perceptron, Scientific Reports, 2024.
 
 *74*. C Polat, H Kurban, **M.Kurban**, QuantumShellNet: Ground-State Eigenvalue Prediction of Materials Using Electronic Shell Structures and Fermionic Properties via Convolutions, Computational Materials Science, 2024 (under review).
 
