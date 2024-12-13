@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Mustafa Kurban, Ph.D. </title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Mustafa Kurban, Ph.D. </description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Code with  &lt;a href=&#39;https://bookdown.org/yihui/blogdown/&#39;&gt;Blogdown&lt;/a&gt;&lt;br&gt;&amp;copy; Mustafa Kurban, {year}</copyright>
+    <lastBuildDate>Mon, 13 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New donor materials for bulk-heterojunction solar cells</title>
+      <link>/project/4/</link>
+      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/project/4/</guid>
+      <description>&lt;p&gt;The performance of organic cells based on bulk heterojunctions (BHJs) has improved recently, but further improvements are necessary. In this work, we have carried out a thorough examination using density functional theory (DFT) and time-dependent (TD)-DFT to investigate the structural and optoelectronic properties of pentacene-based organic molecules (PbOMs) as potential donor material for organic photovoltaic BHJ devices. Our results show that oxadiazole prefers to attach via its nitrogen atoms to the carbon atoms of the pentacene monomer with an adsorption energy about − 32.86 kcal/mol, which means that oxadiazole is efficiently adsorbed on the edge of the pentacene. The HOMO energy level of the PbOM with the lowest bandgap is − 4.00 eV wide, i.e., about 0.86 eV lower and more positive than pentacene, thus providing an ideal open-circuit voltage for photovoltaic devices. The bandgap of the PbOM compounds are about 1.61 and 1.80 eV affording an efficient charge transfer from donor to acceptor. Furthermore, the donor PbOMs are also more stable than the pentacene. We have examined, additionally, the reactivity and absorption properties of individual molecules and PbOM systems. Our results suggest that the PbOM, as a donor material, may significantly improve the efficiency of BHJ solar cells.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Improving drug delivery systems for healthy cells</title>
+      <link>/project/3/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/project/3/</guid>
+      <description>&lt;p&gt;Density functional theory (DFT) is used to examine the formation possibility of a stable interaction between 5-fluorouracil (5-FU) drug molecule and a pristine, boron (B), aluminum (Al), and gallium (Ga)-doped carbon nanotube (CNT). The structural, electronic, optical and reactivity properties of mentioned complexes are investigated in detail. Adsorption energies between the CNT and 5-FU are calculated in the range of −3.79 and −4.38 kcal/mol. Herein, the adsorption of the 5-FU on B-doped CNT is very weak, while stronger adsorption takes place in the case of Al- and Ga-doped CNTs. The results mean that the Al and Ga dopant increases the adsorption capacity of CNT with enhancing its interactions with oxygen atoms of the 5-FU. The charge transfer from adsorbed the 5-FU to Al- and Ga-doped CNTs was confirmed by the natural bond orbital, Mulliken charges, FBO and LBO analyses. It is found that the adsorption of 5-FU on Al-doped CNT is relatively stronger than that of Ga-doped CNT. The NCI-RDG analyses also verify these findings. The first absorption peaks suggest that the B-, A, Ga doped CNTs can absorb in the visible light region. Finally, Al-doped CNT has more desirable properties to use it as a drug delivery system.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hexathiopentacene (HTP) Nanorings</title>
+      <link>/project/2/</link>
+      <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/project/2/</guid>
+      <description>&lt;p&gt;The electronic structure and structural and optoelectronic properties of hexathiopentacene (HTP) nanorings have been carried out by density functional theory (DFT) and time-dependent DFT (TD-DFT). Herein, the binding energy per atom, ionization potential, electron affinity, chemical hardness, highest occupied molecular orbital (HOMO)–lowest unoccupied molecular orbital (LUMO) gap, refractive index, charge distributions, absorbance spectra and non-linear optical properties have been measured. The calculations on these nanorings show that the HOMO–LUMO gaps range from 1.87 eV to 1.28 eV, which corresponds to the bandgap of known photovoltaic semiconductors, while the absorbance spectrum increases from 674 nm (1.84 eV) to 874 nm (1.42 eV), which indicates that the HTP nanorings absorb more light as the nanoring size is increased. From the binding energy, the stability of the HTP nanorings is higher than that of the HTP structure. Our results show that an increase in the size may play a significant role in improving the design of optoelectronic devices based upon these HTP nanorings.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A comprehensive study on carbon nanotubes</title>
+      <link>/project/5/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/project/5/</guid>
+      <description>&lt;p&gt;Density functional theory (DFT) is used for investigating the electronic structure and optical properties carbon nanotubes (CNTs) with doped B, Al, Ga, Si, Ge, N, P and As and different diameters. Our results show that the stability of CNTs increased when it comes to an increase in diameter, however, stability decreases depending on doping additives to pure CNTs. B-doped CNTs are the most effective for electronic conductivity due to its lower band gap. The non-linear optical (NLO) properties are discussed according to dipole moment, polarizability, and hyperpolarizability. All the doped CNTs exhibit a good NLO activity. B-, Al-, Ga- and N-doped CNTs have a significant effect on NLO properties. The band gap of CNTs considerably decreased from 2.76 eV to 1.40 eV and 1.78 eV–0.83 eV based on the diameter. The reactivity properties investigated based on chemical hardness, softness, and potential, electronegativity, electrophilicity, the maximum amount of electronic charge index, the electron accepting and donating capability as well as electronic density of states are also presented and analyzed. Herein, the results indicated that the characteristic properties of CNTs can be controlled with different atoms doped CNTs and diameters.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Suppression of the Shuttle Effect in Li–S Batteries</title>
+      <link>/project/6/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/project/6/</guid>
+      <description>&lt;p&gt;The practical application of lithium–sulfur (Li–S) batteries is still an issue mainly due to the shuttle phenomenon originating from the migration of lithium polysulfides (LiPs) between the electrodes, which leads to low Columbic efficiency and rapid capacity fading. In this work, sulfur electrodes are coated with TiO2 thin films via a magnetron sputtering technique at varying deposition times. A stable capacity contribution (66%) from the long-chain to short-chain LiPs reactions is achieved for the TiO2 coated electrodes, whereas a decline from 66% to 62% is observed for the uncoated electrode. This indicates a reversible use of the long-chain LiPs for the TiO2 coated electrodes, representing a more efficient utilization of the active material. Correspondingly, the capacity retention is improved from 68.8% to 88.5% after TiO2 coating. The TiO2 coated electrode delivers a capacity of 570 mAh/g after 120 cycles at 0.1 C, which is 40% greater than that of the uncoated electrode. Similarly, the TiO2 coated electrode delivers a capacity of 427 mAh/g after 170 cycles at 0.5 C, which is 67% greater than that of the uncoated electrode. Analysis of the binding energies of LiPs that are adsorbed on the TiO2 surface by theoretical calculations shows that strong Li–O bonds dominate the interactions between the LiPs and TiO2 layer. It is suggested that magnetron sputtered TiO2 at the electrode–electrolyte interface can be effective in suppressing the shuttle effect due to the strong polysulfide adsorbing properties of the TiO2 thin film.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nanowires under uniaxial stretching and compression</title>
+      <link>/project/1/</link>
+      <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/1/</guid>
+      <description>&lt;p&gt;Structural and mechanical properties of ternary CdZnTe nanowires have been investigated by performing molecular dynamics simulations using an atomistic potential. The simulation procedures are carried out as uniaxial stretching and compression at 1 K and 300 K. The results demonstrate that the mechanical properties of CdZnTe ternary nanowires significantly show a dependence on size and temperature under uniaxial stretching and compression.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
