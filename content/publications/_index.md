@@ -10,11 +10,9 @@ theme: united
 	
 ##  **Journal Articles**
 
-*76*. C Polat, H Kurban, **M.Kurban**, [QuantumShellNet: Ground-State Eigenvalue Prediction of Materials Using Electronic Shell Structures and Fermionic Properties via Convolutions](https://www.sciencedirect.com/science/article/abs/pii/S0927025624005871), Computational Materials Science, 246, 113366, (2025).
+*75*. C Polat, H Kurban, **M.Kurban**, [QuantumShellNet: Ground-State Eigenvalue Prediction of Materials Using Electronic Shell Structures and Fermionic Properties via Convolutions](https://www.sciencedirect.com/science/article/abs/pii/S0927025624005871), Computational Materials Science, 246, 113366, (2025).
 
-*75.* R. El Mouhi, A. Slimi, S. El Khattabi, A. T. Benjelloun, A. Fitri, M. Benzakour, M. Mcharfi, **M. Kurban**, [Computational study of new small molecules D-A based on triphenylamines for bulk heterojunction solar cells (BHJ)](https://www.sciencedirect.com/science/article/abs/pii/S2210271X24004389), Computational and Theoretical Chemistry. 1241, 114899, (2024).
-
-*74*. C Polat, H Kurban, **M.Kurban**, Text-To-Energy: Accelerating QuantumChemistry Calculations through Text-to-Vector Encoding and Orbital-Aware Multilayer Perceptron, Scientific Reports, 2024.
+*74.* R. El Mouhi, A. Slimi, S. El Khattabi, A. T. Benjelloun, A. Fitri, M. Benzakour, M. Mcharfi, **M. Kurban**, [Computational study of new small molecules D-A based on triphenylamines for bulk heterojunction solar cells (BHJ)](https://www.sciencedirect.com/science/article/abs/pii/S2210271X24004389), Computational and Theoretical Chemistry. 1241, 114899, (2024).
 
 *73*. C Polat, H Kurban, **M.Kurban**, [Multimodal Neural Network-Based Predictive Modeling of Nanoparticle Properties from Pure Compounds](https://iopscience.iop.org/article/10.1088/2632-2153/ad9708/meta), Machine Learning: Science and Technology, 5 045062, (2024).
 
