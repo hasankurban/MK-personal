@@ -10,19 +10,20 @@ theme: united
 	
 ##  **Journal Articles**
 
-*76.* A Maurya, M Pal, R Shukla, Z Siddiqui, S K Pathak, R Srivastava, V K Shukla, H Kulshrestha, **M.Kurban**, O Prasad, L Sinha, Spectroscopic, electronic structure, multi-targeted molecular docking and molecular dynamics simulation study of 4-(4-Methylpiperazin-1-yl)-5,6,7,8-tetrahydropyrido [4,3-d] pyrimidine with Anti-Breast Cancer Properties, New Journal of Chemistry, 2024 (submitted).
+*76*. C Polat, H Kurban, **M.Kurban**, [QuantumShellNet: Ground-State Eigenvalue Prediction of Materials Using Electronic Shell Structures and Fermionic Properties via Convolutions]{https://www.sciencedirect.com/science/article/abs/pii/S0927025624005871}, Computational Materials Science, 246, 113366, (2025).
 
-*75*. C Polat, H Kurban, **M.Kurban**, Text-To-Energy: Accelerating QuantumChemistry Calculations through Text-to-Vector Encoding and Orbital-Aware Multilayer Perceptron, Scientific Reports, 2024.
+*75.* R. El Mouhi, A. Slimi, S. El Khattabi, A. T. Benjelloun, A. Fitri, M. Benzakour, M. Mcharfi, **M. Kurban**, [Computational study of new small molecules D-A based on triphenylamines for bulk heterojunction solar cells (BHJ)]{https://www.sciencedirect.com/science/article/abs/pii/S2210271X24004389}, Computational and Theoretical Chemistry. 1241, 114899, (2024)..
 
-*74*. C Polat, H Kurban, **M.Kurban**, QuantumShellNet: Ground-State Eigenvalue Prediction of Materials Using Electronic Shell Structures and Fermionic Properties via Convolutions, Computational Materials Science, 2024 (under review).
+*74*. C Polat, H Kurban, **M.Kurban**, Text-To-Energy: Accelerating QuantumChemistry Calculations through Text-to-Vector Encoding and Orbital-Aware Multilayer Perceptron, Scientific Reports, 2024.
 
-*73.* L L Bechohra, **M.Kurban**, N E H Medigue, S Kellou-Taïri, Drug Delivery Potential of Carbon and Boron Nitride Nanotubes: A DFT-D3 Analysis of Curcumin Binding Interactions, Diamond & Related Materials, 2024 (under review).
+*73*. C Polat, H Kurban, **M.Kurban**, [Multimodal Neural Network-Based Predictive Modeling of Nanoparticle Properties from Pure Compounds]{https://iopscience.iop.org/article/10.1088/2632-2153/ad9708/meta}, Machine Learning: Science and Technology, 5 045062, (2024).
 
-*72.* A Maurya, A N Mishra, J Srivastava, S Mishra, M Pal, R Shukla, Z Siddiqui, **M.Kurban**, O Prasad, L Sinha, Therapeutic Potential of γ-Graphyne, 6,6,12-Graphyne and γ-Graphdiyne as Drug Transporting Agents for 5-Fluorouracil drug: A DFT Study, Journal of Molecular Liquids, 2024 (under review).
 
-*71.* **M.Kurban**, C Polat, E Serpedin, H Kurban, Enhancing the Electronic Properties of TiO2 Nanoparticles through Carbon Doping: An Integrated DFTB and Computer Vision Approach, Computational Materials Science, 2024 (under review).
+*72.* L L Bechohra, **M.Kurban**, N E H Medigue, S Kellou-Taïri, [Drug Delivery Potential of Carbon and Boron Nitride Nanotubes: A DFT-D3 Analysis of Curcumin Binding Interactions]{https://www.sciencedirect.com/science/article/abs/pii/S0925963524008392}, Diamond & Related Materials, 144, 111626, (2024).
 
-*70.* **M.Kurban** and Z Shariatinia, Elucidating roles of fulleropyrrolidine-based materials as extraordinary electron transporters for boosting efficiency of perovskite photovoltaics, Journal of Physics and Chemistry of Solids, 2024 (under review).
+*71.* **M.Kurban**, C Polat, E Serpedin, H Kurban, [Enhancing the Electronic Properties of TiO2 Nanoparticles through Carbon Doping: An Integrated DFTB and Computer Vision Approach]{https://www.sciencedirect.com/science/article/pii/S0927025624004695}, Computational Materials Science, 244, 113248, (2024).
+
+*70.* **M.Kurban** and Z Shariatinia, [Elucidating roles of fulleropyrrolidine-based materials as extraordinary electron transporters for boosting efficiency of perovskite photovoltaics]{https://www.sciencedirect.com/science/article/pii/S002236972400355X}, Journal of Physics and Chemistry of Solids, 194, 112220, (2024).
 
 *69.* Z Shariatinia, **M.Kurban**, [Rational and green functionalization of B,N-C60 by DNA bases devised as incredible electron transport compounds for perovskite photovoltaic devices](https://www.sciencedirect.com/science/article/pii/S2352492824012418), Materials Today Communications, 109260 (2024).
 
