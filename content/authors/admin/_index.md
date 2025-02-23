@@ -18,7 +18,7 @@ interests:
 - Energy Storage
 - Molecular dynamics
 - TD-DFT(B)
-name: Assoc. Prof. Mustafa Kurban
+name: Prof. Mustafa Kurban
 organizations:
 - name: Ankara University
   url: ""
