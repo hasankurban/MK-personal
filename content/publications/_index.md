@@ -10,12 +10,46 @@ theme: united
 	
 ##  **Journal Articles**
 
+
+*91*. A. Maurya, A. Nandan Mishra, J. Srivastava, S. Mishra, M. Pal, Raj Shukla, Z. Siddiqui, **M. Kurban**, O. Prasada, L. Sinha, [Drug Delivery Potential of γ-Graphyne, 6,6,12-Graphyne and γ-Graphdiyne for 5-Fluorouracil: Insights from DFT Calculations](https://doi.org/10.1080/09276440.2025.2460350), Composite Interfaces, 1-21, (2025).
+
+*90*. C. Polat, H. Kurban, **M. Kurban**, [Enabling ease of access to quantum chemistry with transformer-based text encoding and physics-informed multilayer perceptron](https://doi.org/10.1088/1402-4896/adf14b), Physica Scripta, 100, 086009, (2025).
+
+*89*. **M. Kurban**, Z. Shariatinia, [Asymmetric anthracene derivatives as electron transport materials for high performance OLEDs](https://doi.org/10.1016/j.jphotochem.2025.116533), Journal of Photochemistry and Photobiology A: Chemistry, 468, 116533, (2025).
+
+*88*. W. Coley, A.-A. Akhavi, P. Pena, R. Shang, Y. Ma, A. August-Hernandez, M. Sayyad, S. Tongay, **M. Kurban**, C. S. Ozkan, M. Ozkan, [Eco-friendly layered carbide synthesis from renewable precursors for energy storage applications](https://doi.org/10.1016/j.isci.2025.112692), iScience, 28, 112692, (2025).
+
+*87*. C. Polat, E. Serpedin, **M. Kurban**, H. Kurban, [CrysMTM: A Multiphase, Temperature-Resolved, Multimodal Dataset for Crystalline Materials](https://doi.org/10.1088/2632-2153/adf9bc), Machine Learning: Science and Technology, 6, 030603, (2025).
+
+*86*. H. Kurban, P. Sharma, M. M. Dalkilic, **M. Kurban**, [Accelerating Density of States Prediction in Zn-Doped MgO Nanoparticles via Kernel-Optimized Weighted k-NN](https://doi.org/10.1038/s41598-025-07887-6), Scientific Reports, 15, 30524, (2025).
+
+*85*. L. Sinha, A. Maurya, L. H. Al-Wahaibi, M. Pal, R. Shukla, Z. Siddiqui, S. K. Pathak, R. Srivastava, V. K. Shukla, H. Kulshrestha, **M. Kurban**, A. A. El-Emam, O. Prasad, [A Novel Pyridopyrimidine Derivative as a Potential Breast Cancer Agent: DFT, Docking, MD Simulation and Cytotoxic Studies](https://doi.org/10.1002/cbdv.202501955), Chemistry and Biodiversity, 22, no. 12, e01955, (2025).
+
+*84*. B. Özdemir, Ş. E. Hayber, **M. Kurban**, [Systematic Evaluation and Rational Design of Metalloporphyrin-Based Humidity Sensors: Effects of Central Metal, Solvent, and Water Coordination](https://doi.org/10.1016/j.molliq.2025.128555), Journal of Molecular Liquids, 437, 128555, (2025).
+
+*83*. Z. Shariatinia, **M. Kurban**, [Sustainable Design of Green-Functionalized π-Conjugated BTBF-DPA Derivatives for High-Mobility Hole Transport](https://doi.org/10.1016/j.tet.2025.134984), Tetrahedron, 188, 134984, (2025).
+
+*82*. **M. Kurban**, C. Polat, E. Serpedin, H. Kurban, [Multimodal Explainable AI-Driven Analysis of Quantum Size Effects in Copper Nanoclusters for Hydrogen Storage](https://doi.org/10.1016/j.ijhydene.2025.152950), International Journal of Hydrogen Energy, 201, 152950, (2026).
+
+*81*. A. Kessai, N. Guechi, **M. Kurban**, H. Baaziz, A. Layadi, [Crystallographic site-dependent spintronic properties of CoMnTe/CdS(001) interfaces: A first-principles study](https://doi.org/10.1016/j.comptc.2025.115621), Computational and Theoretical Chemistry, 1256, 115621, (2026).
+
+*80*. **M. Kurban**, B. F. Yalcin, M. Yilmaz, S. Akpinar, B. V. Kök, S. Hekim, A. M. Özdemir, E. Yalcin, F. Göktaş, [Integrating Experimental and Atomistic Insights into the Rejuvenation of Aged Binder Using Bio-Based Rejuvenators](https://doi.org/10.1016/j.matdes.2026.115543), Materials & Design, 262, 115543, (2026).
+
+*79*. **M. Kurban**, C. Polat, E. Serpedin, H. Kurban, [Engineered MgO Nanoparticles with Tunable Electronic Signatures for Energy Applications](https://doi.org/10.1021/acsomega.5c10454), ACS Omega, 11, 7, 11772-11789, (2026).
+
+*78*. I. Muz, **M. Kurban**, [Hydrogen storage thermodynamics on a single-site scandium metalloporphyrin](https://doi.org/10.1016/j.commatsci.2026.114546), Computational Materials Science, 267, 114546, (2026).
+
+*77*. **M. Kurban**, İ. Muz, [Thermodynamics and electronic structure evolution from single-H2 adsorption to stepwise hydrogen loading of Fe metalloporphyrin](https://doi.org/10.1039/D6CP00311G), Physical Chemistry Chemical Physics, 28, 8225-8239, (2026).
+
+*76*. M. E. Ersop, Ş. E. Hayber, **M. Kurban**, [Nitrogen-doped ZnO nanoparticles stabilized in water through surface substitution: Thermodynamic accessibility and electronic-structure engineering](https://doi.org/10.1016/j.jpcs.2026.113635), Journal of Physics and Chemistry of Solids, 213, 113635, (2026).
+
+*75*. C Polat, H Kurban, **M.Kurban**, [QuantumShellNet: Ground-State Eigenvalue Prediction of Materials Using Electronic Shell Structures and Fermionic Properties via Convolutions](https://www.sciencedirect.com/science/article/abs/pii/S0927025624005871), Computational Materials Science, 246, 113366, (2025).
+
 *75*. C Polat, H Kurban, **M.Kurban**, [QuantumShellNet: Ground-State Eigenvalue Prediction of Materials Using Electronic Shell Structures and Fermionic Properties via Convolutions](https://www.sciencedirect.com/science/article/abs/pii/S0927025624005871), Computational Materials Science, 246, 113366, (2025).
 
 *74.* R. El Mouhi, A. Slimi, S. El Khattabi, A. T. Benjelloun, A. Fitri, M. Benzakour, M. Mcharfi, **M. Kurban**, [Computational study of new small molecules D-A based on triphenylamines for bulk heterojunction solar cells (BHJ)](https://www.sciencedirect.com/science/article/abs/pii/S2210271X24004389), Computational and Theoretical Chemistry. 1241, 114899, (2024).
 
 *73*. C Polat, H Kurban, **M.Kurban**, [Multimodal Neural Network-Based Predictive Modeling of Nanoparticle Properties from Pure Compounds](https://iopscience.iop.org/article/10.1088/2632-2153/ad9708/meta), Machine Learning: Science and Technology, 5 045062, (2024).
-
 
 *72.* L L Bechohra, **M.Kurban**, N E H Medigue, S Kellou-Taïri, [Drug Delivery Potential of Carbon and Boron Nitride Nanotubes: A DFT-D3 Analysis of Curcumin Binding Interactions](https://www.sciencedirect.com/science/article/abs/pii/S0925963524008392), Diamond & Related Materials, 144, 111626, (2024).
 
